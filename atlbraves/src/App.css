@@ -1,0 +1,45 @@
+body{ 
+  background-color: #13274F;
+  color: white;
+}
+
+.home-back {
+  height: 800px;
+  width: 1424px;
+  margin-top: 10px;
+}
+
+.table-container {
+  margin: 30px;
+  text-align: justify;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #E7A808;
+}
+
+.logo {
+  padding-left: 10px;
+
+}
+
+.nav-bar {
+  margin-top: 35px;
+  padding-right: 10px;
+}
+
+.nav-bar a {
+  margin: 5px 10px;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  background-color: #13274F;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+a:hover {
+  color: white;
+}
