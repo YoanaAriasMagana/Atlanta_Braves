@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-// import "./App.css";
 import * as XLSX from "xlsx";
 
 function Excel() {
@@ -66,7 +65,6 @@ function Excel() {
               <td>{d.GAME_DATE}</td>
               <td>{d.PLAY_OUTCOME}</td>
               <a href={d.VIDEO_LINK}>{d.VIDEO_LINK}</a>
-              {/* <td>{d.VIDEO_LINK}</td> */}
             </tr>
           ))}
         </tbody>

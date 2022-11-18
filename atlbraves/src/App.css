@@ -22,7 +22,6 @@ body{
 
 .logo {
   padding-left: 10px;
-
 }
 
 .nav-bar {
@@ -42,4 +41,8 @@ body{
 
 a:hover {
   color: white;
+}
+
+button {
+  color: purple;
 }
